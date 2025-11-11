@@ -1,13 +1,13 @@
 # STEM Scholars
 
-STEM Scholars Project — Social Media as a Proxy for Economic Measurement
+STEM Scholars Project -- Social Media as a Proxy for Economic Measurement
 Presented by Arjan Kochar (St. Luke’s School)
 
 1) Guiding question
-- Can social media activity — across platforms and using a combination of techniques (topic modeling, sentiment analysis, image indicators, and volume measures) — reliably predict or correlate with traditional economic indicators (GDP, unemployment claims, economic uncertainty)?
+- Can social media activity (across platforms and using a combination of techniques (topic modeling, sentiment analysis, image indicators, and volume measures)) reliably predict or correlate with traditional economic indicators (GDP, unemployment claims, economic uncertainty)?
 
 2) Project hook
-- Traditional economic measures (surveys, administrative statistics) are often slow, costly, and subject to reporting lags. Satellite night-lights show precedent that nontraditional digital proxies can meaningfully reflect economic activity. Social media offers near-real-time, low-cost signals that may capture consumption, leisure, labor-market transitions, and public sentiment — potentially enabling faster, complementary economic indicators.
+- Traditional economic measures (surveys, administrative statistics) are often slow, costly, and subject to reporting lags. Satellite night-lights show precedent that nontraditional digital proxies can meaningfully reflect economic activity. Social media offers near-real-time, low-cost signals that may capture consumption, leisure, labor-market transitions, and public sentiment potentially enabling faster, complementary economic indicators.
 
 3) Process to date (documentation)
 - Literature compiled and summarized:
