@@ -1,6 +1,5 @@
 # STEM Scholars
 
-```markdown
 STEM Scholars Project — Social Media as a Proxy for Economic Measurement
 Presented by Arjan Kochar (St. Luke’s School)
 
@@ -42,4 +41,3 @@ Egeli, André. “Nightlights as a Proxy for Economic Growth.” Atlas.co, 2025,
 Goodison, Donna. “Tom Brady in New “Pink Slip” Ad Campaign for UGG for Men.” Boston Herald, 19 Nov. 2012, www.bostonherald.com/2012/11/19/tom-brady-in-new-pink-slip-ad-campaign-for-ugg-for-men/. Accessed 17 Sept. 2025.
 
 Thaler, R. H., & Sunstein, C. R. (2021). Nudge: The final edition. Penguin Books.
-```
