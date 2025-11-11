@@ -27,7 +27,8 @@ Presented by Arjan Kochar (St. Luke’s School)
 4) Planned short-term deliverables (next analyses)
 - Work on algorithm (likely time series) for Reddit volume correlated with leisure, S&P 500 Percent Change, etc.
 
-9) Running bibliography (APA)
+Running Bibliography
+
 Antenucci, D., Cafarella, M., Levenstein, M., Ré, C., & Shapiro, M. (2014). Using social media to measure labor market flows. National Bureau of Economic Research. https://www.nber.org/system/files/working_papers/w20010/w20010.pdf
 
 Indaco, A. (2020). From Twitter to GDP: Estimating economic activity from social media. Regional Science and Urban Economics, 85, 103591. https://doi.org/10.1016/j.regsciurbeco.2020.103591
