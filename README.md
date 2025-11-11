@@ -1,4 +1,4 @@
-# STEMScholars
+# STEM Scholars
 
 ```markdown
 STEM Scholars Project — Social Media as a Proxy for Economic Measurement
