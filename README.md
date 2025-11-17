@@ -6,8 +6,17 @@ Presented by Arjan Kochar (St. Luke’s School)
 1) Guiding question
 - Can social media activity (across platforms and using a combination of techniques (topic modeling, sentiment analysis, image indicators, and volume measures)) reliably predict or correlate with traditional economic indicators (GDP, unemployment claims, economic uncertainty)?
 
+<img width="626" height="413" alt="image" src="https://github.com/user-attachments/assets/31969080-dc36-4589-a8e9-24f9d8b4b06e" />
+
 2) Project hook
+
+<img width="636" height="456" alt="image" src="https://github.com/user-attachments/assets/c42ec6c3-1b29-43e3-bf0c-2e39cc043f17" />
+
+
 - Traditional economic measures (surveys, administrative statistics) are often slow, costly, and subject to reporting lags. Satellite night-lights show precedent that nontraditional digital proxies can meaningfully reflect economic activity. Social media offers near-real-time, low-cost signals that may capture consumption, leisure, labor-market transitions, and public sentiment potentially enabling faster, complementary economic indicators.
+
+<img width="636" height="468" alt="image" src="https://github.com/user-attachments/assets/1b382fa2-5d59-4667-98a3-0225066a978d" />
+
 
 3) Process to date (documentation)
 - Literature compiled and summarized:
@@ -23,6 +32,9 @@ Presented by Arjan Kochar (St. Luke’s School)
 - Practical considerations recorded:
   - Signal noise from marketing and PR (e.g., Tom Brady UGG "Pink Slip") must be detected and controlled.
   - Platform demographics and representativeness bias are important limitations.
+ 
+<img width="890" height="546" alt="image" src="https://github.com/user-attachments/assets/a27fa7d1-b972-4a74-9e8d-ecedbdee682e" />
+
 
 4) Planned short-term deliverables (next analyses)
 - Work on algorithm (likely time series) for Reddit volume correlated with leisure, S&P 500 Percent Change, etc.
