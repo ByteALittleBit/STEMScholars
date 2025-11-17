@@ -25,6 +25,9 @@ Presented by Arjan Kochar (St. Luke’s School)
   - Yürük (2025): Links social media sentiment and posts on X with measures of economic uncertainty and asset behavior; recommends VAR and time-series modeling.
   - Ahmed & Watters (2019): Tweet propagation, network structure, and alarm-related signal dynamics; suggests retweet spikes as potential uncertainty markers.
   - Nudge and related behavioural economic theories -- understanding how choice architecture influences decisions
+ 
+The above research helped me gain a better understanding of how statistical and machine learning methods have been used in the past to use social media data as proxies, complements, or improvements to curret economic indicators.
+
 - Drafted data & methods plan:
   - Candidate signals: post volume (by region/time), topic distributions, sentiment/emotion scores, image-derived consumption indicators, retweet/network spikes.
   - Planned datasets: Twitter/X (public stream & historical queries where permitted), Reddit, Google Trends, official economic series (weekly unemployment claims, monthly employment, GDP, ATUS leisure time statistics).
