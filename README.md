@@ -28,6 +28,8 @@ Presented by Arjan Kochar (St. Luke’s School)
  
 The above research helped me gain a better understanding of how statistical and machine learning methods have been used in the past to use social media data as proxies, complements, or improvements to curret economic indicators.
 
+<img width="890" height="546" alt="image" src="https://github.com/user-attachments/assets/a27fa7d1-b972-4a74-9e8d-ecedbdee682e" />
+
 - Drafted data & methods plan:
   - Candidate signals: post volume (by region/time), topic distributions, sentiment/emotion scores, image-derived consumption indicators, retweet/network spikes.
   - Planned datasets: Twitter/X (public stream & historical queries where permitted), Reddit, Google Trends, official economic series (weekly unemployment claims, monthly employment, GDP, ATUS leisure time statistics).
@@ -35,8 +37,9 @@ The above research helped me gain a better understanding of how statistical and 
 - Practical considerations recorded:
   - Signal noise from marketing and PR (e.g., Tom Brady UGG "Pink Slip") must be detected and controlled.
   - Platform demographics and representativeness bias are important limitations.
- 
-<img width="890" height="546" alt="image" src="https://github.com/user-attachments/assets/a27fa7d1-b972-4a74-9e8d-ecedbdee682e" />
+
+<img width="625" height="780" alt="image" src="https://github.com/user-attachments/assets/dc092724-7501-4c0f-a59c-455dc20789fd" />
+
 
 
 4) Planned short-term deliverables (next analyses)
