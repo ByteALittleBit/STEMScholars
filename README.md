@@ -14,7 +14,7 @@ Presented by Arjan Kochar (St. Luke’s School)
 
 <img width="636" height="456" alt="image" src="https://github.com/user-attachments/assets/c42ec6c3-1b29-43e3-bf0c-2e39cc043f17" />
 
-3) Process to date (documentation)
+3) Past Work
 - Literature compiled and summarized:
   - Antenucci et al. (2014): Twitter signals for labor-market flows; benefits of real-time, large-scale data; limitations of lexical k-gram methods and noise from news/marketing.
   - Indaco (2020): Correlations between Twitter activity (text and geolocated images) and GDP/geographic economic activity; suggests combining social signals with night lights for validation.
@@ -38,8 +38,19 @@ The above research helped me gain a better understanding of how statistical and 
 
 <img width="625" height="780" alt="image" src="https://github.com/user-attachments/assets/dc092724-7501-4c0f-a59c-455dc20789fd" />
 
-4) Planned short-term deliverables (next analyses)
-- Work on algorithm (likely time series) for Reddit volume correlated with leisure, S&P 500 Percent Change, etc.
+4) Progress since last check-in/presentation
+
+**Successes**
+  - Successful meeting with Alumni connection (Kat). She provided valuable insights such as the fact that my validation source only accounts for leisure data from one country. Therefore I can only focus on content specific to my validation source.
+  - Adapted for state-based time-use tables from the survey.
+  - Basic proof concept with time-series model with limited success. Now transitioning to multi-variable regression as per reccomendation by Kat.
+
+**Challenges**
+  - The data sources that I had found before break and planned to use to further my analysis no longer function under the new model + advice from Kat.
+
+5) Future Steps
+
+  - Potentially might try scrapping data (against advice), or try to appeal API access. I will also renew my search for datasets given the new search creteria. 
 
 Running Bibliography
 
