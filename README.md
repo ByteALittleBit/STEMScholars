@@ -65,8 +65,9 @@ Presented by Arjan Kochar (St. Luke’s School)
 ### Successes
 - Successful meeting with Alumni connection (Kat).  
   *She provided valuable insights such as the fact that my validation source only accounts for leisure data from one country. Therefore, I can only focus on state-based time-use tables.*
-- Adapted for state-based time-use tables from the survey.
-- Basic proof-of-concept with time-series model (limited success).  
+- Adapted for state-based time-use tables from the survey. As well as other biases such as gender.
+- Problem-solved for different methods of adjusting for Reddit growth.
+- Basic proof-of-concept with time-series model (limited success).
   *Now transitioning to multi-variable regression as per Kat’s recommendation.*
 
 ### Challenges
@@ -102,3 +103,4 @@ Presented by Arjan Kochar (St. Luke’s School)
   
 - Thaler, R. H., & Sunstein, C. R. (2021).  
   *Nudge: The final edition.* Penguin Books.
+
