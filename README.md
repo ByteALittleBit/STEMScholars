@@ -29,16 +29,34 @@ Presented by Arjan Kochar (St. Luke’s School)
 <img width="625" height="780" alt="image" src="https://github.com/user-attachments/assets/dc092724-7501-4c0f-a59c-455dc20789fd" />
 
 ### Literature Summary
-- **Antenucci et al. (2014)**  
-  *Twitter signals for labor-market flows; benefits of real-time, large-scale data; limitations of lexical k-gram methods and noise from news/marketing.*
-- **Indaco (2020)**  
-  *Correlations between Twitter activity (text and geolocated images) and GDP/geographic economic activity; suggests combining social signals with night-lights for validation.*
-- **Yürük (2025)**  
-  *Links social media sentiment and posts on X with measures of economic uncertainty and asset behavior; recommends VAR and time-series modeling.*
-- **Ahmed & Watters (2019)**  
-  *Tweet propagation, network structure, and alarm-related signal dynamics; suggests retweet spikes as potential uncertainty markers.*
-- **Nudge & Behavioral Economic Theories**  
-  *Understanding how choice architecture influences decisions.*
+
+### Antenucci et al. (2014)
+- **Core Findings**: This study highlights the potential of social media, particularly Twitter, as a source for real-time signals to monitor and measure labor-market flows. The authors argue that traditional economic indicators, such as surveys and administrative records, often come with latency and access limitations. In contrast, social media data offers the advantage of being generated in substantial volumes and in near real time. By mining Twitter data, Antenucci et al. demonstrated potential correlations with labor-market shifts, though their analysis also accounted for unique challenges related to extraction and interpretation of such data.
+- **Limitations Noted**: They highlight the drawbacks of using simple lexical methods (e.g., k-grams, or contiguous sequence models for word extraction) due to noise, such as irrelevant content from marketing campaigns, news outlets, or casual non-economic discussions.
+
+---
+
+### Indaco (2020)
+- **Core Findings**: Indaco investigates the connection between Twitter activity (both textual content and geolocated visual posts) and GDP or regional economic activities. Using statistical and geospatial analysis, they concluded that social media activities could serve as viable proxies for economic trends. Notably, the study suggests augmenting social media analysis by leveraging satellite night-lights data, a proven indicator of economic activity, in order to validate social signal-based methods.
+- **Recommendations**: The study proposes that integrating multiple non-traditional datasets (e.g., Twitter signals with night-lights) could better capture economic dynamics, especially in dispersed or underdatafied regions.
+
+---
+
+### Yürük (2025)
+- **Core Findings**: This work draws a direct connection between social media sentiment, post frequency, and measures of economic uncertainty. Specifically, it examines how social media activity on platforms like X correlates with financial and economic indicators, such as asset volatility and consumer behavior. Yürük uses advanced econometric methods like Vector Autoregression (VAR) and time-series modeling to establish causal relationships.
+- **Implications**: The study emphasizes the importance of sentiment analysis on social platforms when attempting to capture shifts in economic uncertainty or predict economic trends. It also underscores a granular approach to data—for example, categorizing posts based on temporal or regional patterns.
+
+---
+
+### Ahmed & Watters (2019)
+- **Core Findings**: By analyzing the propagation of tweets during high-profile events, this study demonstrates the utility of network structure analysis in capturing potentially relevant signals for economic or social uncertainty. Ahmed and Watters found that spikes in retweet activity could act as markers for significant moments of alarm or uncertainty.
+- **Insights on Behavior**: The network analysis revealed that during critical economic news or uncertainties, specific events and their information cascades (e.g., patterns of who initiates and amplifies a conversation) can mirror public sentiment surrounding market or economic anxieties.
+
+---
+
+### Nudge & Behavioral Economic Theories
+- **Overview**: This framework, largely championed by economists like Thaler and Sunstein, provides insights into how individuals and groups make decisions based on the structure of their choices. Applied to the context of this project, nudge theory suggests that subtle cues (e.g., phrasing of economic news on social media) can significantly influence perceptions and subsequent actions, such as major purchase decisions or investment moves.
+- **Relevance**: By understanding how choice architecture can shape user behavior on social media, the study highlights the value of incorporating behavioral-economic insights into analyses of digital economic proxies.
 
 ### Data & Methods Plan
 - **Candidate Signals**
@@ -103,4 +121,5 @@ Presented by Arjan Kochar (St. Luke’s School)
   
 - Thaler, R. H., & Sunstein, C. R. (2021).  
   *Nudge: The final edition.* Penguin Books.
+
 
